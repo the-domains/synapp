@@ -1,0 +1,28 @@
+name: Synapp
+favicon: null
+layout_spectrum: 0.27010620036162436
+typography_spectrum: 0.5986983021721244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#b73059'
+    - '#75628f'
+    - '#a84c75'
+    - '#80436f'
+    - '#5a5386'
+  brandStrength: 0
+  lightness: 0.9918066703248769
+  saturation: 0.273806159151718
+  rhythmicContrast: 0.4917535097338259
+purpose: []
