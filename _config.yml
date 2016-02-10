@@ -1,7 +1,7 @@
 name: Synapp
 favicon: null
-layout_spectrum: 0.27010620036162436
-typography_spectrum: 0.5986983021721244
+layout_spectrum: 0.49429
+typography_spectrum: 0.3025
 cta:
   domain: null
   bucket: null
